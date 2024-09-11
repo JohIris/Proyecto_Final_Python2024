@@ -1,0 +1,62 @@
+[
+  {
+    "alias": "JOHA",
+    "clave": "1234",
+    "nombre": "Johanna",
+    "puntos": 105
+  },
+  {
+    "alias": "SEBA",
+    "clave": "7733",
+    "nombre": "Sebastian",
+    "puntos": 101
+  },
+  {
+    "alias": "CAMI",
+    "clave": "cm91",
+    "nombre": "Camila",
+    "puntos": 112
+  },
+  {
+    "alias": "RODRI",
+    "clave": "1234",
+    "nombre": "Rodrigo",
+    "puntos": 108
+  },
+  {
+    "alias": "ECCCC",
+    "clave": "956",
+    "nombre": "Esteban",
+    "puntos": 100
+  },
+  {
+    "alias": "NADU",
+    "clave": "nd87",
+    "nombre": "Nadia",
+    "puntos": 108
+  },
+  {
+    "alias": "NINA",
+    "clave": "perro2",
+    "nombre": "Nina",
+    "puntos": 19
+  },
+  {
+    "alias": "RUBI",
+    "clave": "2004",
+    "nombre": "Rubi",
+    "puntos": 17
+  },
+  {
+    "alias": "ALEE",
+    "clave": "koko5",
+    "nombre": "Alejandro",
+    "puntos": 0
+  },
+  {
+    "alias": "ERROR",
+    "clave": "956",
+    "nombre": "No sabemos",
+    "puntos": 0
+  }
+]
